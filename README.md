@@ -4,7 +4,7 @@ We are a decentralized open-source art movement, building pfp NFTs with your sub
 
 ![Beauty is everywher](https://media.giphy.com/media/GINwWtxBkXgOs/giphy.gif)
 
-We are using the power of git to build a whole new breed of pfp which evolves with the DAO 
+We are using the power of git to build a whole new breed of pfp which evolves with the DAO. 
 
 We are on Rinkbey, hell yeah!!🔥
 
@@ -19,7 +19,7 @@ We are on Rinkbey, hell yeah!!🔥
 
 ## How To Guide
 
-Artistic? Use one of our templates to create a layer for our Art Engine. These will be used to generate unique NFT art faces. No one knows what the final composed image will look like, but you can shape the outcome with your submissions. Be a part of it! 
+Artistic? Use one of our templates to create a layer for our Art Engine. These will be used to generate unique NFT art faces. All styles welcome. No one knows what the final composed image will look like, but you can shape the outcome with your submissions. Be a part of it! 
 
 Our NFTs are made up of 8 layers:
 
