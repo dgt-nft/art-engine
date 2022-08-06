@@ -15,8 +15,6 @@ We are on Rinkbey, hell yeah!!🔥
 
 ![X factor](https://media.giphy.com/media/28LOlpoqJh02X7QAyI/giphy.gif)
 
-(https://imgur.com/a/QtWcr9v)
-
 ## How To Guide
 
 Artistic? Use one of our templates to create a layer for our Art Engine. These will be used to generate unique NFT art faces. All styles welcome. No one knows what the final composed image will look like, but you can shape the outcome with your submissions. Be a part of it! 
