@@ -41,7 +41,7 @@ We will be accepting 10 submissions to each layer type per round. Our templates 
 - Generally keep within the coloured area on the art guidelines (these are the safe areas), however, some going over the edges is OK. Designs that disregard the guide areas entirely are unlikely to be voted in. Do so at your own risk!
 Use a face-on perspective for all facial features for consistency 
 
-(https://imgur.com/zUPnxQv)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/zUPnxQv" data-context="false" ><a href="//imgur.com/a/zUPnxQv"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 🚨*Stick to the guide or NGMI!* 
 
