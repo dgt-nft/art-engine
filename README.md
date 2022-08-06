@@ -32,6 +32,7 @@ Our NFTs are made up of 8 layers:
 
 We will be accepting 10 submissions to each layer type per round. Our templates provide an outline, download and use as a guide to create your submission.
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/zUPnxQv" data-context="false" ><a href="//imgur.com/a/zUPnxQv"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ### Artwork Requirements 
 - Transparent aside from your your art element
