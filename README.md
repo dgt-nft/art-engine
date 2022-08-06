@@ -65,18 +65,18 @@ Now you have a Pull request URL, you can move on to the next step of creating a 
 
 
 #### Creating a Proposal for the DAO
-1. Visit our proposal page on DAOHaus
+1. Visit our proposal page on DAOHaus (https://app.daohaus.club/dao/0x4/0x2cf5f68a34cda203d2fd392457b1a9032bb59365)
 2. Select “new proposal” then “Request Shares For Work Completed”
 3. Complete the proposal using this format:
     - Title: Layer Name, ie Aura1#10
-    - Shares requested: 1
-    - Link: add your github Pull Request URL
-    - Select more and then “Payment Requested” 
+    - Shares requested: 1 (you must enter '1' in this field)
+    - Link: add your github Pull Request URL (as above)
+    - Select 'more' and then “Payment Requested” 
     - Payment Requested : 100 DGT tokens
     - Then submit
-Now you have submitted, the DAO will be able to vote on whether to accept your submission. If successful the pull request (PR) will be merged and you will receive the shares and tokens.
+Now you have submitted, the DAO will be able to vote on whether to accept your submission. If successful the pull request (PR) will be merged and you will receive the shares (1) and tokens (100).
 
-You can now use these shares to vote in following submissions. 
+You can now use these shares to vote in following submissions! 
 
 ## Just DAO it!
 
