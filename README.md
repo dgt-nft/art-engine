@@ -1,6 +1,6 @@
 # DAO's Got Talent - DGT 🤩
 
-We are a decentralized open source art movement. Our work is unpredictable and innovative. Contribute your artwork to our Github repository, build collaboratively, earn tokens to vote in future rounds. Let's see what the DAO has in store for us 👀
+We are a decentralized open-source art movement, building pfp NFTs with your submissions. Our work is unpredictable and innovative. Contribute your artwork to our Github repository, build collaboratively, earn tokens to vote in future rounds. Let's see what the DAO has in store for us 👀
 
 ![Beauty is everywher](https://media.giphy.com/media/GINwWtxBkXgOs/giphy.gif)
 
@@ -8,7 +8,7 @@ We are using the power of git to build a whole new breed of pfp which evolves wi
 
 We are on Rinkbey, hell yeah!!🔥
 
-- 🪙 DGT Token[0x03077276dd87960543c0f1e13b6cd97bd147ba84 Rinkeby](https://rinkeby.etherscan.io/token/0x03077276dd87960543c0f1e13b6cd97bd147ba84)
+- 🪙 DGT Token [0x03077276dd87960543c0f1e13b6cd97bd147ba84 Rinkeby](https://rinkeby.etherscan.io/token/0x03077276dd87960543c0f1e13b6cd97bd147ba84)
 - 🏠 [DGT on DAOHaus](https://app.daohaus.club/dao/0x4/0x2cf5f68a34cda203d2fd392457b1a9032bb59365)
 
 *Does your art have the X-factor to make it in DAOs Got Talent?*
