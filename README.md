@@ -4,6 +4,19 @@ We are a decentralized open source art movement. Our work is unpredictable and i
 
 ![Beauty is everywher](https://media.giphy.com/media/GINwWtxBkXgOs/giphy.gif)
 
+We are using the power of git to build a whole new breed of pfp which evolve with the DAO
+
+We are on Rinkbey, hell yeah!!🔥
+
+- 🪙 DGT Token[0x03077276dd87960543c0f1e13b6cd97bd147ba84 Rinkeby](https://rinkeby.etherscan.io/token/0x03077276dd87960543c0f1e13b6cd97bd147ba84)
+- 🏠 [DGT on DAOHaus](https://app.daohaus.club/dao/0x4/0x2cf5f68a34cda203d2fd392457b1a9032bb59365)
+
+*Does your art have the X-factor to make it in DAOs Got Talent?*
+
+![X factor](https://media.giphy.com/media/28LOlpoqJh02X7QAyI/giphy.gif)
+
+
+
 ## How To Guide
 
 Artistic? Use one of our templates to create a layer for our Art Engine. These will be used to generate unique NFT art pieces. No one knows what the final composed image will look like, but you can shape the outcome with your submissions. 
@@ -28,6 +41,10 @@ We will be accepting 10 submissions to each layer type. Our templates provide an
 - Keep the original file name
 - Generally keep within the guideline, however some going over the edges is OK. Designs which disregard this are unlikely to be voted in
 Use a head on perspective for features to be consistent 
+
+🚨*Stick to the guide or NGMI!* 
+
+![Simon Cowell says no](https://i.pinimg.com/originals/99/fe/5a/99fe5ac7cfd9f18ac52585b7ce878c9e.gif)
 
 ### Process
 #### Overall
