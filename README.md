@@ -1,6 +1,6 @@
 # DAO's Got Talent - DGT 🤩
 
-We are a decentralized open source art movement. Our work is unpredictable and innovative. Contribute your artwork to our Github repository, earn tokens to vote in future rounds. Let's see what the DAO has in store for us 👀
+We are a decentralized open source art movement. Our work is unpredictable and innovative. Contribute your artwork to our Github repository, build collaboratively, earn tokens to vote in future rounds. Let's see what the DAO has in store for us 👀
 
 ![Beauty is everywher](https://media.giphy.com/media/GINwWtxBkXgOs/giphy.gif)
 
