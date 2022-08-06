@@ -34,13 +34,13 @@ Our NFTs are made up of 8 layers:
 
 We will be accepting 10 submissions to each layer type per round. Our templates provide an outline, download and use as a guide to create your submission.
 
-### Requirements 
-- Transparent aside from your your art
+### Artwork Requirements 
+- Transparent aside from your your art element
 - Only PNGs
 - The original template content can be removed and replaced your designs
 - Keep the original dimensions (1000px by 1000px, 150dpi) 
 - Keep the original file name
-- Generally keep within the coloured area on the art guidelines (these are the safe areas), however, some going over the edges is OK. Designs that disregard the guides entirely are unlikely to be voted in
+- Generally keep within the coloured area on the art guidelines (these are the safe areas), however, some going over the edges is OK. Designs that disregard the guide areas entirely are unlikely to be voted in. Do so at your own risk!
 Use a face-on perspective for all facial features for consistency 
 
 🚨*Stick to the guide or NGMI!* 
