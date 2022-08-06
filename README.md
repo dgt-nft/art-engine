@@ -40,6 +40,7 @@ We will be accepting 10 submissions to each layer type per round. Our templates 
 - Keep the original file name
 - Generally keep within the coloured area on the art guidelines (these are the safe areas), however, some going over the edges is OK. Designs that disregard the guide areas entirely are unlikely to be voted in. Do so at your own risk!
 Use a face-on perspective for all facial features for consistency 
+- Anything submitted should be copyright-free, and artwork submitted is the sole responsibility of the proposer. 
 
 Create: you can use apps like PhotoShop Adobe CC / [sketch.io](https://sketch.io/sketchpad/) / [Canva ](https://www.canva.com/)
 
