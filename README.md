@@ -64,7 +64,8 @@ Upload your file with the identical name to the template (must include layer nam
 6. On your forked version you will see `This branch is 1 commit ahead of dgt-nft:main.` next to this there is a contribute button, in the drop down select "Open Pull Request"
 
 
-4. Commit the files, make sure you add your wallet address in the description. Name the branch the filename (as above). Click propose changes and then create Pull Request.
+7. Commit the files, make sure you add your wallet address in the description. Name the branch the filename (as above). Click propose changes and then create Pull Request.
+8. Note one attribute change per PR. 
 
 
 Now you have a Pull request URL, you can move on to the next step of creating a proposal.
