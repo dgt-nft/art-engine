@@ -17,6 +17,9 @@ We are on Rinkbey, hell yeah!!🔥
 
 Artistic? Use one of our templates to create a layer for our Art Engine. These will be used to generate unique NFT art faces. All styles welcome. No one knows what the final composed image will look like, but you can shape the outcome with your submissions. Be a part of it! 
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/jwrCEmOp1-Y)
+
+
 Our NFTs are made up of 8 layers:
 
 - Backgrounds (solid colours or backgrounds)
