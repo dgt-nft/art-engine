@@ -2,8 +2,6 @@
 
 We are a decentralized open-source art movement, building pfp NFTs with your submissions. Our work is unpredictable and innovative. Contribute your artwork to our Github repository, build collaboratively, earn tokens to vote in future rounds. Let's see what the DAO has in store for us 👀
 
-![Beauty is everywher](https://media.giphy.com/media/GINwWtxBkXgOs/giphy.gif)
-
 We are using the power of git to build a whole new breed of pfp which evolves with the DAO. 
 
 We are on Rinkbey, hell yeah!!🔥
