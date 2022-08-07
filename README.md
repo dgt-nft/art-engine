@@ -56,8 +56,9 @@ Once you are happy with your artwork submit as a Pull Request on github (see gui
 #### Creating a Pull Request on Github
 1. Make sure your piece meets the requirements above
 2. Visit our Github repo
-3. Create a fork of this repo on your github account
-4. Navigate to the folder in Layers ([https://github.com/rra22/art-engine/tree/main/layers](https://github.com/dgt-nft/art-engine)) which matches the layer name you have worked on
+3. When deciding which specific attribute to work on/ create pull request for, check that there are no [open pull requests](https://github.com/dgt-nft/art-engine/pulls)(PR) with this specific file name and artwork template. It's OK to have multiple numbes of the same attribute; ie if there is a open PR for `background1#10` creating `background2#10` is fine.
+4. Create a fork of this repo on your github account
+5. Navigate to the folder in Layers ([https://github.com/rra22/art-engine/tree/main/layers](https://github.com/dgt-nft/art-engine)) which matches the layer name you have worked on
 Upload your file with the identical name to the template (must include layer name, number and #10)
 5. Submit and merge your attribute to the matching name on your fork (ie Hair_hat_ears_horns3#10, see https://github.com/endlessrollerblade/art-engine/commit/7c65154da514d09a41f9208aec099ad176a0c680)
 6. On your forked version you will see `This branch is 1 commit ahead of dgt-nft:main.` next to this there is a contribute button, in the drop down select "Open Pull Request"
