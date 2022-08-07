@@ -86,11 +86,96 @@ Now you have submitted, the DAO will be able to vote on whether to accept your s
 
 You can now use these shares to vote in following submissions! 
 
+
 ## Just DAO it!
 
 ![Just DAO IT](https://media.giphy.com/media/104ueR8J1OPM2s/giphy-downsized-large.gif)
 
+## Footnotes: Completed Attributes
 
+**Backgrounds**
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6 
+- [ ] 7 
+- [ ] 8 
+- [ ] 9
+- [ ] 10
+
+**Aura**
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6 
+- [ ] 7 
+- [ ] 8 
+- [ ] 9
+- [ ] 10
+
+**Shoulders**
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6 
+- [ ] 7 
+- [ ] 8 
+- [ ] 9
+- [ ] 10
+
+**Face**
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6 
+- [ ] 7 
+- [ ] 8 
+- [ ] 9
+- [ ] 10
+
+**Face Tattoo**
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6 
+- [ ] 7 
+- [ ] 8 
+- [ ] 9
+- [ ] 10
+
+**Nose and Mouth**
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6 
+- [ ] 7 
+- [ ] 8 
+- [ ] 9
+- [ ] 10
+
+**Hair, hat ears etc**
+- [x] 1
+- [x] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6 
+- [ ] 7 
+- [ ] 8 
+- [ ] 9
+- [ ] 10
 
 
 
