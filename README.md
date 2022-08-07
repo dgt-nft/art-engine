@@ -168,7 +168,7 @@ You can now use these shares to vote in following submissions!
 **Hair, hat ears etc**
 - [x] 1
 - [x] 2
-- [ ] 3
+- [x] 3
 - [ ] 4
 - [ ] 5
 - [ ] 6 
