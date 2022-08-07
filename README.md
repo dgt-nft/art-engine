@@ -2,8 +2,6 @@
 
 We are a decentralized open-source art movement, building pfp NFTs with your submissions. Our work is unpredictable and innovative. Contribute your artwork to our Github repository, build collaboratively, earn tokens to vote in future rounds. Let's see what the DAO has in store for us 👀
 
-![Beauty is everywher](https://media.giphy.com/media/GINwWtxBkXgOs/giphy.gif)
-
 We are using the power of git to build a whole new breed of pfp which evolves with the DAO. 
 
 We are on Rinkbey, hell yeah!!🔥
@@ -40,6 +38,9 @@ We will be accepting 10 submissions to each layer type per round. Our templates 
 - Keep the original file name
 - Generally keep within the coloured area on the art guidelines (these are the safe areas), however, some going over the edges is OK. Designs that disregard the guide areas entirely are unlikely to be voted in. Do so at your own risk!
 Use a face-on perspective for all facial features for consistency 
+- Anything submitted should be copyright-free, and artwork submitted is the sole responsibility of the proposer. 
+
+Create: you can use apps like PhotoShop Adobe CC / [sketch.io](https://sketch.io/sketchpad/) / [Canva ](https://www.canva.com/)
 
 ![Example artwork](https://i.imgur.com/zUPnxQv.png)
 
@@ -55,11 +56,17 @@ Once you are happy with your artwork submit as a Pull Request on github (see gui
 #### Creating a Pull Request on Github
 1. Make sure your piece meets the requirements above
 2. Visit our Github repo
-3. Navigate to the folder in Layers (https://github.com/rra22/art-engine/tree/main/layers) which matches the layer name you have worked on
-Upload you your file with the identical name to the template (must include layer name, number and #10)
+3. When deciding which specific attribute to work on/ create pull request for, check that there are no [open pull requests](https://github.com/dgt-nft/art-engine/pulls)(PR) with this specific file name and artwork template. It's OK to have multiple numbes of the same attribute; ie if there is a open PR for `background1#10` creating `background2#10` is fine.
+4. Create a fork of this repo on your github account
+5. On your fork, create a new branch that matches the name of the attribute that you are submitting (checking there is not an open PR already).
+5. Navigate to the folder in Layers ([https://github.com/rra22/art-engine/tree/main/layers](https://github.com/dgt-nft/art-engine)) which matches the layer name you have worked on
+Upload your file with the identical name to the template (must include layer name, number and #10)
+5. Submit and merge your attribute to the matching name on your fork (ie Hair_hat_ears_horns3#10, see https://github.com/endlessrollerblade/art-engine/commit/7c65154da514d09a41f9208aec099ad176a0c680)
+6. On your forked version you will see `This branch is 1 commit ahead of dgt-nft:main.` next to this there is a contribute button, in the drop down select "Open Pull Request"
 
 
-4. Commit the files, make sure you add your wallet address in the description. Name the branch the filename (as above). Click propose changes and then create Pull Request.
+7. Commit the files, make sure you add your wallet address in the description. Name the branch the filename (as above). Click propose changes and then create Pull Request.
+8. Note one attribute change per PR. 
 
 
 Now you have a Pull request URL, you can move on to the next step of creating a proposal.
@@ -79,11 +86,96 @@ Now you have submitted, the DAO will be able to vote on whether to accept your s
 
 You can now use these shares to vote in following submissions! 
 
+
 ## Just DAO it!
 
 ![Just DAO IT](https://media.giphy.com/media/104ueR8J1OPM2s/giphy-downsized-large.gif)
 
+## Footnotes: Completed Attributes
 
+**Backgrounds**
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6 
+- [ ] 7 
+- [ ] 8 
+- [ ] 9
+- [ ] 10
+
+**Aura**
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6 
+- [ ] 7 
+- [ ] 8 
+- [ ] 9
+- [ ] 10
+
+**Shoulders**
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6 
+- [ ] 7 
+- [ ] 8 
+- [ ] 9
+- [ ] 10
+
+**Face**
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6 
+- [ ] 7 
+- [ ] 8 
+- [ ] 9
+- [ ] 10
+
+**Face Tattoo**
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6 
+- [ ] 7 
+- [ ] 8 
+- [ ] 9
+- [ ] 10
+
+**Nose and Mouth**
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6 
+- [ ] 7 
+- [ ] 8 
+- [ ] 9
+- [ ] 10
+
+**Hair, hat ears etc**
+- [x] 1
+- [x] 2
+- [x] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6 
+- [ ] 7 
+- [ ] 8 
+- [ ] 9
+- [ ] 10
 
 
 
