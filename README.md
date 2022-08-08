@@ -133,7 +133,7 @@ You can now use these shares to vote in following submissions!
 - [ ] 10
 
 **Face**
-- [ ] 1
+- [x] 1
 - [ ] 2
 - [ ] 3
 - [ ] 4
