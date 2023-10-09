@@ -17,6 +17,9 @@ We are on Rinkbey, hell yeah!!🔥
 
 Artistic? Use one of our templates to create a layer for our Art Engine. These will be used to generate unique NFT art faces. All styles welcome. No one knows what the final composed image will look like, but you can shape the outcome with your submissions. Be a part of it! 
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/jwrCEmOp1-Y)
+
+
 Our NFTs are made up of 8 layers:
 
 - Backgrounds (solid colours or backgrounds)
@@ -56,14 +59,17 @@ Once you are happy with your artwork submit as a Pull Request on github (see gui
 #### Creating a Pull Request on Github
 1. Make sure your piece meets the requirements above
 2. Visit our Github repo
-3. Create a fork of this repo on your github account
-4. Navigate to the folder in Layers ([https://github.com/rra22/art-engine/tree/main/layers](https://github.com/dgt-nft/art-engine)) which matches the layer name you have worked on
+3. When deciding which specific attribute to work on/ create pull request for, check that there are no [open pull requests](https://github.com/dgt-nft/art-engine/pulls)(PR) with this specific file name and artwork template. It's OK to have multiple numbes of the same attribute; ie if there is a open PR for `background1#10` creating `background2#10` is fine.
+4. Create a fork of this repo on your github account
+5. On your fork, create a new branch that matches the name of the attribute that you are submitting (checking there is not an open PR already).
+5. Navigate to the folder in Layers ([https://github.com/rra22/art-engine/tree/main/layers](https://github.com/dgt-nft/art-engine)) which matches the layer name you have worked on
 Upload your file with the identical name to the template (must include layer name, number and #10)
 5. Submit and merge your attribute to the matching name on your fork (ie Hair_hat_ears_horns3#10, see https://github.com/endlessrollerblade/art-engine/commit/7c65154da514d09a41f9208aec099ad176a0c680)
 6. On your forked version you will see `This branch is 1 commit ahead of dgt-nft:main.` next to this there is a contribute button, in the drop down select "Open Pull Request"
 
 
-4. Commit the files, make sure you add your wallet address in the description. Name the branch the filename (as above). Click propose changes and then create Pull Request.
+7. Commit the files, make sure you add your wallet address in the description. Name the branch the filename (as above). Click propose changes and then create Pull Request.
+8. Note one attribute change per PR. 
 
 
 Now you have a Pull request URL, you can move on to the next step of creating a proposal.
@@ -83,11 +89,96 @@ Now you have submitted, the DAO will be able to vote on whether to accept your s
 
 You can now use these shares to vote in following submissions! 
 
+
 ## Just DAO it!
 
 ![Just DAO IT](https://media.giphy.com/media/104ueR8J1OPM2s/giphy-downsized-large.gif)
 
+## Footnotes: Completed Attributes
 
+**Backgrounds**
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6 
+- [ ] 7 
+- [ ] 8 
+- [ ] 9
+- [ ] 10
+
+**Aura**
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6 
+- [ ] 7 
+- [ ] 8 
+- [ ] 9
+- [ ] 10
+
+**Shoulders**
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6 
+- [ ] 7 
+- [ ] 8 
+- [ ] 9
+- [ ] 10
+
+**Face**
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6 
+- [ ] 7 
+- [ ] 8 
+- [ ] 9
+- [ ] 10
+
+**Face Tattoo**
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6 
+- [ ] 7 
+- [ ] 8 
+- [ ] 9
+- [ ] 10
+
+**Nose and Mouth**
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6 
+- [ ] 7 
+- [ ] 8 
+- [ ] 9
+- [ ] 10
+
+**Hair, hat ears etc**
+- [x] 1
+- [x] 2
+- [x] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6 
+- [ ] 7 
+- [ ] 8 
+- [ ] 9
+- [ ] 10
 
 
 
